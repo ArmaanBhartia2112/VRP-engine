@@ -1,0 +1,110 @@
+{
+  "6_0": {
+    "n": 6,
+    "instance": 0,
+    "heuristic_cost": 4093.2091426951965,
+    "optimal_cost": 4093.2091426951965,
+    "gap_percent": 0.0,
+    "heuristic_runtime": 0.00026720797177404165,
+    "exact_runtime": 60.00745491695125
+  },
+  "6_1": {
+    "n": 6,
+    "instance": 1,
+    "heuristic_cost": 4568.788230067892,
+    "optimal_cost": 4568.788230067892,
+    "gap_percent": 0.0,
+    "heuristic_runtime": 0.00040787504985928535,
+    "exact_runtime": 60.00351745809894
+  },
+  "6_2": {
+    "n": 6,
+    "instance": 2,
+    "heuristic_cost": 3796.635282577835,
+    "optimal_cost": 3796.635282577835,
+    "gap_percent": 0.0,
+    "heuristic_runtime": 0.00032404204830527306,
+    "exact_runtime": 60.00314154103398
+  },
+  "8_0": {
+    "n": 8,
+    "instance": 0,
+    "heuristic_cost": 5800.853263474231,
+    "optimal_cost": 5800.853263474231,
+    "gap_percent": 0.0,
+    "heuristic_runtime": 0.0005383749958127737,
+    "exact_runtime": 59.97394391591661
+  },
+  "8_1": {
+    "n": 8,
+    "instance": 1,
+    "heuristic_cost": 4829.860740595486,
+    "optimal_cost": 4829.860740595485,
+    "gap_percent": 1.8830660978038767e-14,
+    "heuristic_runtime": 0.0006782499840483069,
+    "exact_runtime": 60.00305845797993
+  },
+  "8_2": {
+    "n": 8,
+    "instance": 2,
+    "heuristic_cost": 5390.677295650495,
+    "optimal_cost": 5390.677295650496,
+    "gap_percent": -1.687162209666604e-14,
+    "heuristic_runtime": 0.0007559590740129352,
+    "exact_runtime": 60.00361625000369
+  },
+  "10_0": {
+    "n": 10,
+    "instance": 0,
+    "heuristic_cost": 5483.909380437843,
+    "optimal_cost": 5483.909380437843,
+    "gap_percent": 0.0,
+    "heuristic_runtime": 0.001117040985263884,
+    "exact_runtime": 60.00374058296438
+  },
+  "10_1": {
+    "n": 10,
+    "instance": 1,
+    "heuristic_cost": 5688.271811292359,
+    "optimal_cost": 5688.271811292359,
+    "gap_percent": 0.0,
+    "heuristic_runtime": 0.001501666964031756,
+    "exact_runtime": 60.00404216593597
+  },
+  "10_2": {
+    "n": 10,
+    "instance": 2,
+    "heuristic_cost": 6684.240085655923,
+    "optimal_cost": 6532.080641970837,
+    "gap_percent": 2.3294177158103397,
+    "heuristic_runtime": 0.0010098329512402415,
+    "exact_runtime": 60.003354917047545
+  },
+  "12_0": {
+    "n": 12,
+    "instance": 0,
+    "heuristic_cost": 6812.763231644145,
+    "optimal_cost": 6812.763231644145,
+    "gap_percent": 0.0,
+    "heuristic_runtime": 0.0018403340363875031,
+    "exact_runtime": 60.00614833389409
+  },
+  "12_1": {
+    "n": 12,
+    "instance": 1,
+    "heuristic_cost": 6954.376915743616,
+    "optimal_cost": 6954.376915743616,
+    "gap_percent": 0.0,
+    "heuristic_runtime": 0.0014094579964876175,
+    "exact_runtime": 60.00344166706782
+  },
+  "12_2": {
+    "n": 12,
+    "instance": 2,
+    "heuristic_cost": 6967.082128743792,
+    "optimal_cost": 6967.082128743792,
+    "gap_percent": 0.0,
+    "heuristic_runtime": 0.001069667050614953,
+    "exact_runtime": 60.003491499926895
+  }
+}

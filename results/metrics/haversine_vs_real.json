@@ -1,0 +1,22 @@
+{
+  "8": {
+    "haversine_planned_real_cost": 11370.835782369064,
+    "real_planned_real_cost": 11370.835782369064,
+    "degradation_pct": 0.0
+  },
+  "10": {
+    "haversine_planned_real_cost": 13933.269468572056,
+    "real_planned_real_cost": 13302.456358722735,
+    "degradation_pct": 4.742079904931861
+  },
+  "15": {
+    "haversine_planned_real_cost": 17127.929658467132,
+    "real_planned_real_cost": 16069.117612356496,
+    "degradation_pct": 6.589111310607699
+  },
+  "20": {
+    "haversine_planned_real_cost": 17137.49176278536,
+    "real_planned_real_cost": 16840.85826324911,
+    "degradation_pct": 1.7613918180380357
+  }
+}

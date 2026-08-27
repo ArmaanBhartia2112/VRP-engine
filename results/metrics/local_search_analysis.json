@@ -1,0 +1,26 @@
+{
+  "10": {
+    "cw_cost": 6143.519534132456,
+    "final_cost": 6143.519534132456,
+    "improvement_pct": 0.0,
+    "num_passes": 0
+  },
+  "15": {
+    "cw_cost": 8946.74928809389,
+    "final_cost": 8946.74928809389,
+    "improvement_pct": 0.0,
+    "num_passes": 0
+  },
+  "20": {
+    "cw_cost": 8852.913101206057,
+    "final_cost": 8852.913101206057,
+    "improvement_pct": 0.0,
+    "num_passes": 0
+  },
+  "25": {
+    "cw_cost": 14267.696542248166,
+    "final_cost": 13125.941074735594,
+    "improvement_pct": 8.002381212213988,
+    "num_passes": 1
+  }
+}

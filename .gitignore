@@ -1,0 +1,22 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# OS generated files
+.DS_Store
+
+# (Optional) You can uncomment these if you don't want to commit generated plots/caches
+# data/matrix_cache/*.json
+# results/plots/*.png
+# results/metrics/*.json

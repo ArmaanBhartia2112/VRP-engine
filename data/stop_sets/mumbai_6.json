@@ -1,0 +1,13 @@
+{
+  "description": "6 delivery stops + 1 depot in Mumbai (small instance for exact solving)",
+  "city": "Mumbai",
+  "stops": [
+    {"id": 0, "name": "Depot (Andheri)", "lat": 19.1197, "lon": 72.8464, "demand": 0},
+    {"id": 1, "name": "Bandra West", "lat": 19.0596, "lon": 72.8295, "demand": 5},
+    {"id": 2, "name": "Juhu Beach", "lat": 19.0948, "lon": 72.8267, "demand": 3},
+    {"id": 3, "name": "Powai Lake", "lat": 19.1273, "lon": 72.9070, "demand": 7},
+    {"id": 4, "name": "Dadar Station", "lat": 19.0186, "lon": 72.8425, "demand": 4},
+    {"id": 5, "name": "Worli Sea Face", "lat": 19.0176, "lon": 72.8152, "demand": 6},
+    {"id": 6, "name": "Goregaon Film City", "lat": 19.1655, "lon": 72.8513, "demand": 2}
+  ]
+}
